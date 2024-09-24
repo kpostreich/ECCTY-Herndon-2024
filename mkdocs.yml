@@ -1,0 +1,7 @@
+site_name: ECCTY 2024 - Herndon, Virginia
+nav:
+  - Home: index.md
+  - Day 1 Labs: day1.md
+  - Day 2 Labs: day2.md  
+theme: readthedocs  
+extra_css: ["extra.css"]
